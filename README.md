@@ -21,4 +21,5 @@ I am very grateful to StackUp for this bounty because it has allowed me to learn
 I apologize for the lackluster explanation I provided, as I find it challenging to convey information to others. Your understanding is greatly appreciated.
 
 Discord username: nashki.
+
 X (Twitter) username: [ikhsan_dadan](https://twitter.com/Ikhsan_dadan "ikhsan_dadan")
