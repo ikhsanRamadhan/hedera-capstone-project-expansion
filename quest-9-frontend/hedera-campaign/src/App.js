@@ -23,7 +23,6 @@ function App() {
   const [score, setScore] = useState(0);
   const [contract, setContract] = useState();
   const [myName, setMyName] = useState();
-  const [myBalance, setMyBalance] = useState();
 
   // Part 2 - define environment variables
   const scAddress = process.env.REACT_APP_SC_ADDRESS;
